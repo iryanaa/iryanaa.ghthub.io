@@ -1,0 +1,28 @@
+.c {
+  margin-top: 200px;
+  width: 100%;
+  position: fixed;
+    left: 50%;
+}
+#fish-1 {
+  font-size: 72px;
+     position: fixed;
+}
+.bubble-fish {
+  position: relative;
+  margin: 0 auto;
+  width: 1em;
+  line-height: 1;
+}
+.bubble {
+  position: fixed;
+  left: 71%;
+  top: 40%;
+  width: 0.09em;
+  height: 0.09em;
+  border-radius: 50%;
+  background: #2483CB;
+  //border: 1px solid;
+  transform-origin: 50% 50%;
+  transform: scale(1.4);
+}

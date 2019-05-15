@@ -1,0 +1,107 @@
+h1 {
+    font-size: 130px;
+    margin-left: 30%;
+    margin-top: -60%;
+    font-family: 'Righteous', cursive;
+}
+
+h2 {
+    position: absolute;
+    line-height: 0;
+    /*    justify-content: center;*/
+    /*    align-items: center;*/
+    font-size: 620%;
+    font-family: 'Righteous', cursive;
+    /*    text-align: center;*/
+    color: white;
+    top: 125%;
+    right: 40%;
+
+}
+
+p,
+p9 {
+    position: absolute;
+    line-height: 0;
+    font-size: 140%;
+    /*    justify-content: center;*/
+    /*    align-items: center;*/
+
+    font-family: 'Righteous', cursive;
+    /*    text-align: center;*/
+    color: white;
+    right: 40%;
+
+}
+
+p {
+    top: 135%;
+}
+p1 {
+    top: 240%;
+}
+h3 {
+    position: absolute;
+    font-size: 620%;
+    font-family: 'Righteous', cursive;
+    color: white;
+    right: 50%;
+    top: 215%;
+
+}
+
+h4 {
+    position: absolute;
+    font-size: 620%;
+    font-family: 'Righteous', cursive;
+    color: white;
+    right: 50%;
+    top: 320%;
+}
+p9 {
+    top: 140%;
+}
+
+p2 {
+    position: absolute;
+    left: 55%;
+    top: 156%;
+    color: azure;
+}
+
+p3 {
+    position: absolute;
+    left: 45%;
+    top: 156%;
+    color: azure;
+}
+
+p4 {
+    position: absolute;
+    left: 35%;
+    top: 156%;
+    color: azure;
+}
+
+p5 {
+    position: absolute;
+    left: 50%;
+    top: 173%;
+    color: azure;
+}
+
+p6 {
+    position: absolute;
+    left: 40%;
+    top: 173%;
+    color: azure;
+}
+p12 {
+    position: absolute;
+    top: 346%;
+    right: 53%;
+    color: #2483CB;
+    font-size: 200%;
+    font-family: "Montserrat", sans-serif;
+
+}

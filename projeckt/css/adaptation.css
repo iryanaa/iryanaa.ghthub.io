@@ -1,0 +1,376 @@
+@media all and (max-width: 320px) {
+  section, aside {
+    float: none;
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+    
+ section, aside {
+    float: none;
+    width: auto;
+  }
+.h1 {
+   position: absolute;
+        font-size: 150%;
+        right: 10%;
+        font-family: 'Righteous', cursive;
+        margin-top: -50%;
+}
+    #nav-bg {
+        height: 0px;
+        margin: 0;
+        padding: 0;
+    }
+    
+   
+    body {}
+
+    background-image: 320px;
+
+    .hero {
+        font-size: 50px;
+        right: 10%;
+        color: white;
+        margin-top: 80%;
+
+    }
+
+
+
+
+    .mu {
+        position: absolute;
+        width: 90vmax;
+        /*        object-fit: cover;*/
+        right: 10%;
+        top: 15vmax;
+    }
+
+    .ho {
+        width: 30vmax;
+        left: 10%;
+        top: 60vmax;
+        /*         object-fit: cover;*/
+    }
+
+    .w-100 {
+        width: 35%;
+        position: fixed;
+        top: 10vmax;
+        left: 50%;
+    }
+
+    .wo {
+        position: absolute;
+        width: 200vmax;
+        /*        object-fit: cover;*/
+        top: 75vmax;
+        align-items: center;
+        right: 0.01%;
+    }
+
+    .feesh {
+        width: 25vmax;
+        left: 40vmax;
+    }
+
+    h2 {
+        position: absolute;
+        font-size: 50px;
+        right: 40%;
+        font-family: 'Righteous', cursive;
+        margin-top: 0%;
+
+    }
+
+    p,
+    p9 {
+        font-size: 20px;
+        left: 40vmax;
+        width: auto;
+    }
+
+
+    #ph {
+        position: absolute;
+        left: 70%;
+        top: 145%;
+    }
+
+    #id {
+        position: absolute;
+        left: 45%;
+        top: 145%;
+        height: 9.5vh;
+    }
+
+    #il {
+        position: absolute;
+        left: 18%;
+        top: 145%;
+    }
+
+    #fl {
+        position: absolute;
+        left: 60%;
+        top: 163%;
+    }
+
+    #cd {
+        position: absolute;
+        left: 30%;
+        top: 163%;
+    }
+
+    p2 {
+        position: absolute;
+        left: 70%;
+        top: 156%;
+        color: azure;
+    }
+
+    p3 {
+        position: absolute;
+        left: 45%;
+        top: 156%;
+        color: azure;
+    }
+
+    p4 {
+        position: absolute;
+        left: 18%;
+        top: 156%;
+        color: azure;
+    }
+
+    p5 {
+        position: absolute;
+        left: 60%;
+        top: 173%;
+        color: azure;
+    }
+
+    p6 {
+        position: absolute;
+        left: 30%;
+        top: 173%;
+        color: azure;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .next {
+        right: 40%;
+    }
+
+    .c {
+        opacity: 50;
+        display: none;
+    }
+
+    .mas {
+
+        display: none;
+    }
+
+    h4 {
+        position: absolute;
+        font-size: 300%;
+        font-family: 'Righteous', cursive;
+        color: white;
+        right: 20%;
+        top: 320%;
+    }
+
+    p12 {
+        position: absolute;
+        top: 346%;
+        right: 25%;
+        color: #2483CB;
+        font-size: 100%;
+        font-family: "Montserrat", sans-serif;
+
+    }
+
+    .icon {
+        display: none;
+       
+    }
+
+    p,
+    p9 {
+        position: absolute;
+        line-height: 0;
+        font-size: 100%;
+        font-family: 'Righteous', cursive;
+        color: white;
+        right: 90%;
+
+    }
+/*
+    .mySlides { width: 100%;}
+}
+*/
+
+    
+@media only screen and (max-width: 768px) {
+
+    h1 {
+        position: absolute;
+        font-size: 110px;
+        right: 40%;
+        font-family: 'Righteous', cursive;
+        margin-top: 5%;
+
+    }
+
+    background-image: 768px;
+
+    #s1 {
+        background-image: linear-gradient(#2a6a85, #0d2249);
+
+
+    }
+
+    .menuToggle {
+        display: none;
+    }
+
+    .w-100 {
+        width: 40%;
+        position: fixed;
+        top: 35vmax;
+        left: 60%;
+    }
+
+    .wo {height: 40%;
+        width: 250%;
+        left: -150%;
+        top: 60%;
+    }
+
+    .ho {
+        position: absolute;
+        z-index: 100;
+        left: 10%;
+        top: 65vmax;
+        width: 40%;
+    }
+
+    .mu {
+        position: absolute;
+        width: 80vmax;
+        object-fit: cover;
+        right: 20%;
+        top: 15vmax;
+    }
+
+    .icon {
+        display: none;
+    }
+
+    .c {
+        opacity: 50;
+        display: none;
+    }
+
+
+    #ph {
+        position: absolute;
+        left: 70%;
+        top: 145%;
+    }
+
+    #id {
+        position: absolute;
+        left: 45%;
+        top: 145%;
+        height: 9.5vh;
+    }
+
+    #il {
+        position: absolute;
+        left: 18%;
+        top: 145%;
+    }
+
+    #fl {
+        position: absolute;
+        left: 60%;
+        top: 163%;
+    }
+
+    #cd {
+        position: absolute;
+        left: 30%;
+        top: 163%;
+    }
+
+    p2 {
+        position: absolute;
+        left: 70%;
+        top: 156%;
+        color: azure;
+    }
+
+    p3 {
+        position: absolute;
+        left: 45%;
+        top: 156%;
+        color: azure;
+    }
+
+    p4 {
+        position: absolute;
+        left: 18%;
+        top: 156%;
+        color: azure;
+    }
+
+    p5 {
+        position: absolute;
+        left: 60%;
+        top: 173%;
+        color: azure;
+    }
+
+    p6 {
+        position: absolute;
+        left: 30%;
+        top: 173%;
+        color: azure;
+    }
+
+    .next {
+        position: absolute;
+        left: 70%;
+    }
+
+    .prev {
+        position: absolute;
+        right: 80%;
+    }
+
+    .mas {
+
+        display: none;
+    }
+
+    h4 {
+        left: 20%;
+    }
+
+    p12 {
+        left: 25%;
+        top: 335%;
+    }
+
+    #nav-bg {
+        height: 2%;
+    }
+    .menuToggle{display: none;}
+}
